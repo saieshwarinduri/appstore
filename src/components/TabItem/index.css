@@ -1,0 +1,21 @@
+.hrTag {
+  background-color: #8c99a6;
+  height: 2px;
+  width: 50px;
+}
+.hrTagColor {
+  background-color: #2563eb;
+}
+.listheading {
+  text-align: center;
+  color: #7b8794;
+}
+.buttonClass {
+  background-color: transparent;
+  border: none;
+}
+.button_color {
+  color: #2563eb;
+  font-size: 15px;
+  align-self: flex-start;
+}

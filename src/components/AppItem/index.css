@@ -1,0 +1,18 @@
+.appContainer {
+  display: flex;
+  height: 100px;
+  width: 100px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  margin: 10px;
+  border-radius: 8px;
+}
+.imageOfApp {
+  height: 40px;
+}
+
+.appName {
+  font-size: 10px;
+}
